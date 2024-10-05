@@ -8,8 +8,7 @@ CineSage is a personalized movie recommendation system designed to help users di
 ## Installation Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CineSage.git  
-cd CineSage
+git clone https://github.com/akashambure/movie-recommendation-system.git  
 ```
 2. Install the required libraries:
 ```bash
