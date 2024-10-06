@@ -1,6 +1,6 @@
 ![CINEsage (1)](https://github.com/user-attachments/assets/46d9b08b-44e9-46a1-aa25-9c8de75aa09a)
 ________________________________________________________________________________________________
-# Personalized Movie Recommendation System
+# CineSage: Personalized Movie Recommendation System
 
 ## Description
 CineSage is a personalized movie recommendation system designed to help users discover films tailored to their preferences. By leveraging machine learning techniques, this project analyzes user data and movie features to provide accurate recommendations, enhancing the movie-watching experience.
